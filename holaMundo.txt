@@ -1,6 +1,7 @@
 algo que esta solo en el master
 prueba añadiendo texto
 commit en dos repos
+<<<<<<< HEAD
 kkjl
 safs
 asdasd
@@ -11,3 +12,11 @@ ads
 ada
 adas
 asdad
+=======
+
+prueba 2
+
+
+perro
+holas
+>>>>>>> develop
